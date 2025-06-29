@@ -1,3 +1,15 @@
+print('''
+
+▄ ▄▄▄▄▄ █  ▐▌▄▄▄▄  ▄  ▄▄▄▄ ▗▞▀▚▖
+▄ █ █ █ ▀▄▄▞▘█   █ ▄ █   █ ▐▛▀▀▘
+█ █   █      █   █ █ ▀▄▄▄█ ▝▚▄▄▖
+█                  █     █      
+                         ▀     
+Unique character detection through a sentence
+
+''')
+
+
 kalimat = input("Masukan sebuah kalimat yang anda inginkan: ")
 
 list_karakter = list(kalimat)
